@@ -3,4 +3,4 @@ project(Log_Parser C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(Log_Parser library.c)
+add_executable(Log_Parser Log_Parser_V1.c)
