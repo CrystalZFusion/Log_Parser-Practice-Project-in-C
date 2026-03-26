@@ -1,0 +1,11 @@
+Hello world
+Raasclaat
+ERROR
+One Piece
+ERROR
+INFO
+INFO
+WARNING
+WARNING
+WARNING
+WARNING
